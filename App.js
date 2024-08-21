@@ -4,6 +4,7 @@ import Login from './components/LoginSignUp/Login';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import SignUp from './components/LoginSignUp/SignUp';
+import './tailwind.css';
 
 const Stack = createStackNavigator();
 
